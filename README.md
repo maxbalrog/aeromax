@@ -1,2 +1,2 @@
 # aeromax
-Solution to AI hackaton "Geographical coordinated of aerial images"
+Solution to AI hackaton "Linking aerial photographs to the terrain"
